@@ -1,6 +1,6 @@
 # 🎯 Power BI Dashboard Portfolio (2025)
 A curated showcase of Power BI dashboards designed and built by **Rosanne Sim** — blending data storytelling, business insight, and visual analytics.  
-Each project demonstrates not only technical execution (DAX, KPIs, data modelling) but also clear interpretation and business relevance** that turns data into decisions.
+Each project demonstrates not only technical execution (DAX, KPIs, data modelling) but also clear interpretation and business relevance that turns data into decisions.
 
 ---
 
