@@ -1,13 +1,13 @@
 # 🎯 Power BI Dashboard Portfolio (2025)
 A curated showcase of Power BI dashboards designed and built by **Rosanne Sim** — blending data storytelling, business insight, and visual analytics.  
-Each project demonstrates not only technical execution (DAX, KPIs, data modelling) but also the **"so what"** — clear takeaways that drive business understanding.
+Each project demonstrates not only technical execution (DAX, KPIs, data modelling) but also clear takeaways that drive business understanding.
 
 ---
 
 ## 🏙 Power BI KPI & Drill-Down Dashboard
 **Objective:** Identify where global skyscraper developments are most concentrated and provide a city-level drill-down for comparative insights.  
 **Data Story:** China and the UAE dominate the skyline landscape, with Guangzhou and Shenzhen leading city-level development.  
-**So What:** This type of visualization can help real-estate or infrastructure stakeholders prioritise investment or expansion focus areas.
+**So What:** This type of visualisation can help real-estate or infrastructure stakeholders prioritise investment or expansion focus areas.
 
 ![KPI Dashboard – Country View](./Power%20BI%20KPI%20%26%20Drill-Down%20Dashboard%20-%20P2-1.jpg)
 ![KPI Dashboard – City Drill-Down](./Power%20BI%20KPI%20%26%20Drill-Down%20Dashboard%20-%20P1-1.jpg)
