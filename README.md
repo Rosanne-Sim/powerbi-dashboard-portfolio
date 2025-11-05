@@ -44,10 +44,10 @@ Each project demonstrates not only technical execution (DAX, KPIs, data modellin
 
 ## Key Takeaways
 
-- 📉 Certification test volumes declined sharply in 2020, coinciding with the rollout of new Office modules — suggesting candidate adaptation challenges.  
-- 📈 A steady recovery followed in 2021–2022, driven by targeted reskilling programs and exam accessibility improvements.  
-- 🧩 Cities with higher per-capita income showed stronger recovery rates, implying stronger digital infrastructure support.  
-- ⚙️ Insights enabled data-driven planning for certification providers to optimise course delivery and marketing timing.
+- Certification test volumes declined sharply in 2020, coinciding with the rollout of new Office modules — suggesting candidate adaptation challenges.  
+- A steady recovery followed in 2021–2022, driven by targeted reskilling programs and exam accessibility improvements.  
+- Cities with higher per-capita income showed stronger recovery rates, implying stronger digital infrastructure support.  
+- Insights enabled data-driven planning for certification providers to optimise course delivery and marketing timing.
 
 ---
 
