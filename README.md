@@ -42,11 +42,20 @@ Each project demonstrates not only technical execution (DAX, KPIs, data modellin
 
 ---
 
-## 🧠 Key Takeaways
-- Strong grasp of Power BI design principles: hierarchy, alignment, and interactivity  
-- Business-focused storytelling: translating visuals into actionable insights  
-- Integration of DAX measures and drill-down logic for layered analysis  
-- Portfolio demonstrates both technical capability and strategic thinking
+## Key Takeaways
+
+- 📉 Certification test volumes declined sharply in 2020, coinciding with the rollout of new Office modules — suggesting candidate adaptation challenges.  
+- 📈 A steady recovery followed in 2021–2022, driven by targeted reskilling programs and exam accessibility improvements.  
+- 🧩 Cities with higher per-capita income showed stronger recovery rates, implying stronger digital infrastructure support.  
+- ⚙️ Insights enabled data-driven planning for certification providers to optimise course delivery and marketing timing.
+
+---
+
+## Skills Demonstrated
+- Power BI dashboard design: hierarchy, alignment, and interactivity  
+- DAX measures for cumulative totals and variance analysis  
+- Business-oriented storytelling through trend and waterfall visuals  
+
 
 ---
 
